@@ -1,0 +1,62 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Alfred Wang&#39;s Site</title>
+    <link>https://example.com/categories/</link>
+    <description>Recent content in Categories on Alfred Wang&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©2021 Alfred Wang</copyright>
+    
+        <atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Our Difference</title>
+      <link>https://example.com/homepage/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/homepage/about/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Ipsum dolor sit amet, et essent mediocritatem quo.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>To Gap or not to Gap</title>
+      <link>https://example.com/post/gap_choice/</link>
+      <pubDate>Sun, 09 May 2021 20:58:14 +0200</pubDate>
+      
+      <guid>https://example.com/post/gap_choice/</guid>
+      <description>&lt;p&gt;In 2020, I came to EU to study Electrical Engineering. The first year is tough. I barely make deep connections between anyone.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Working on Both Sides of Life</title>
+      <link>https://example.com/post/double_labor/</link>
+      <pubDate>Sun, 09 May 2021 17:12:08 +0200</pubDate>
+      
+      <guid>https://example.com/post/double_labor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>&lt;p&gt;Cruuently I am a master student in Electrical Engineering.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
